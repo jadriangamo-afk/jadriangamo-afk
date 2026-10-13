@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is José Adrián García Morales
-
+Soy una persona a la que le encanta aprender cosas nuevas. Tengo mucha experiencia en maquetacio para comuniones.
 <!--
 **jadriangamo-afk/jadriangamo-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
