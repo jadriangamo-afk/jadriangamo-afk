@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is José Adrián García Morales
-Soy alumno de primero de Creación de videojuegos, Animación y entornos interactivos. Supere previamente un grado medio en Disc-Jokey es decir soy Tecnico en Imagén y sonido, aprendi a utilizar Adobe Photoshop, Adobe Premier, Resolumen, Adobe Auditión y Magic Q. Ahora estoy aprendiendo Krita, Blender y Unity.
+Soy alumno de primero de Creación de videojuegos, Animación y entornos interactivos. Supere previamente un grado medio en Disc-Jokey es decir soy Tecnico en Imagén y sonido, aprendi a utilizar Adobe Photoshop, Adobe Premier, Resolumen, Adobe Auditión, Reaper, Traktor, Rekorbox 7 y Magic Q. Ahora estoy aprendiendo Krita, Unity, Blender y DaVinci Resolve.
 <!--
 **jadriangamo-afk/jadriangamo-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
