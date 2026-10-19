@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-github.png" alt="Banner de José Adrián" width="100%">
+</p>
 ## Hi there 👋 My name is José Adrián García Morales
 Soy alumno de primero de Creación de videojuegos, Animación y entornos interactivos. Supere previamente un grado medio en Disc-Jokey es decir soy Tecnico en Imagén y sonido, aprendi a utilizar Adobe Photoshop, Adobe Premier, Resolumen Arena, Adobe Auditión, Reaper, Traktor, Rekorbox 7 y Magic Q (Chamsys). Ahora estoy aprendiendo Krita, Unity, Blender y DaVinci Resolve.
 <!--
